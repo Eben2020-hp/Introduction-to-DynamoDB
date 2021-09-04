@@ -51,3 +51,19 @@ We can see how we excecuted the above files and we can also see their outputs. W
   - ### Scan Table
   <img src="https://user-images.githubusercontent.com/66016994/132092227-801da2cc-a692-4266-bd4b-4afeffe27291.png" />
   <img src="https://user-images.githubusercontent.com/66016994/132092312-b54327b6-7ebc-4ee4-9d32-fad66ca3bc4c.png" />
+
+We have done our initial procedure or adding Data to our table and perform basic operations. Now we will go the extra mile and create a function that will do a simple task of turning on the sprinklers when the **Temperature** is greater than *25 degree Celcius*.
+
+  - ### Activating the Device
+  <img src="https://user-images.githubusercontent.com/66016994/132096756-e7ef9729-1080-49e2-9646-425d87de2008.png" />
+  <img src="https://user-images.githubusercontent.com/66016994/132096768-293a1c3f-bb83-402e-bc9b-aba58ce8a41e.png" />
+
+- As shown above we have thus completed the task assigned to us. Now we can ***Delete the Table.***
+
+  - ### Delete Table
+  <img src="https://user-images.githubusercontent.com/66016994/132096824-0d6a0625-48e9-400f-a1ff-1c018d2ab283.png" />
+  <img src="https://user-images.githubusercontent.com/66016994/132096817-160833c3-6b3d-4fec-8196-0e7a5d25c43c.png" />
+  
+---
+
+This shows us a basic idea on how to get started with DynamoDB and Python.
