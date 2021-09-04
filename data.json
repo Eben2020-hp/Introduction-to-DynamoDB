@@ -1,0 +1,89 @@
+[{
+    "DeviceID": "Field1",
+    "DataCount": 1,
+    "info": {
+        "temperature1": 26.0,
+        "temperature2": 15.01,
+        "temperature3": 12.31,
+        "temperature4": 30.13,
+        "temperature5": 25.21
+    }
+},
+{
+    "DeviceID": "Field2",
+    "DataCount": 1,
+    "info": {
+        "temperature1": 23.04,
+        "temperature2": 35.01,
+        "temperature3": 28.91,
+        "temperature4": 26.45,
+        "temperature5": 16.21
+    }
+},
+{
+    "DeviceID": "Field3",
+    "DataCount": 1,
+    "info": {
+        "temperature1": 14.4,
+        "temperature2": 24.0,
+        "temperature3": 39.2,
+        "temperature4": 29.11,
+        "temperature5": 13.8
+    }
+},
+{
+    "DeviceID": "Field4",
+    "DataCount": 1,
+    "info": {
+        "temperature1": 34.23,
+        "temperature2": 36.21,
+        "temperature3": 31.24,
+        "temperature4": 32.02,
+        "temperature5": 29.54
+    }
+},
+{
+    "DeviceID": "Field1",
+    "DataCount": 2,
+    "info": {
+        "humidity1": 30,
+        "humidity2": 74,
+        "humidity3": 63,
+        "humidity4": 61,
+        "humidity5": 55
+    }
+},
+{
+    "DeviceID": "Field2",
+    "DataCount": 2,
+    "info": {
+        "humidity1": 53,
+        "humidity2": 65,
+        "humidity3": 58,
+        "humidity4": 66,
+        "humidity5": 76
+    }
+},
+{
+    "DeviceID": "Field3",
+    "DataCount": 2,
+    "info": {
+        "humidity1": 50,
+        "humidity2": 61,
+        "humidity3": 82,
+        "humidity4": 73,
+        "humidity5": 63
+    }
+},
+{
+    "DeviceID": "Field4",
+    "DataCount": 2,
+    "info": {
+        "humidity1": 63,
+        "humidity2": 55,
+        "humidity3": 78,
+        "humidity4": 66,
+        "humidity5": 60
+    }
+}
+]
