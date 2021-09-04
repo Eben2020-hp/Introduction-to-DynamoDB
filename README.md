@@ -46,19 +46,21 @@ By doing this you will now be able to access your DynamoDB.
   <img src="https://user-images.githubusercontent.com/66016994/132092214-298d38ac-393d-4821-80bc-324c8aa49081.png" />
 
 <img src="https://user-images.githubusercontent.com/66016994/132092270-e8d9a6f7-410f-4f4e-b9ff-c578179dd310.png" />
-We can see how we excecuted the above files and we can also see their outputs. We will be able to see all the data in out table using the *scam.py*.
+We can see how we excecuted the above files and we can also see their outputs. We will be able to see all the data in out table using the *scan.py*.
 
   - ### Scan Table
   <img src="https://user-images.githubusercontent.com/66016994/132092227-801da2cc-a692-4266-bd4b-4afeffe27291.png" />
   <img src="https://user-images.githubusercontent.com/66016994/132092312-b54327b6-7ebc-4ee4-9d32-fad66ca3bc4c.png" />
 
-We have done our initial procedure or adding Data to our table and perform basic operations. Now we will go the extra mile and create a function that will do a simple task of turning on the sprinklers when the **Temperature** is greater than *25 degree Celcius*.
+We have done our initial procedure or adding Data to our table and perform basic operations. 
+
+- **STEP 4:** Now we will go the extra mile and create a function that will do a simple task of turning on the sprinklers when the **Temperature** is greater than *25 degree Celcius*.
 
   - ### Activating the Device
   <img src="https://user-images.githubusercontent.com/66016994/132096756-e7ef9729-1080-49e2-9646-425d87de2008.png" />
   <img src="https://user-images.githubusercontent.com/66016994/132096768-293a1c3f-bb83-402e-bc9b-aba58ce8a41e.png" />
 
-- As shown above we have thus completed the task assigned to us. Now we can ***Delete the Table.***
+- **STEP 5:** As shown above we have thus completed the task assigned to us. Now we can ***Delete the Table.***
 
   - ### Delete Table
   <img src="https://user-images.githubusercontent.com/66016994/132096824-0d6a0625-48e9-400f-a1ff-1c018d2ab283.png" />
